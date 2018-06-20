@@ -1,0 +1,23 @@
+﻿.center {
+    padding: 1em 0;
+    text-align: center;
+}
+
+    .center > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:1em;
+        margin-bottom:1em;
+        width: 40%;
+    }
+
+#about {
+    background-color: #e6f2ff;
+    border: 3px solid #1a1aff;
+}
+
+#contact {
+    border: 3px solid #004d00;
+    background-color: #ccffcc;
+}

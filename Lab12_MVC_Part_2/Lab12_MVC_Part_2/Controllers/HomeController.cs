@@ -17,14 +17,14 @@ namespace Lab12_MVC_Part_2.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "This is an ASP.NET Web Application for Code Fellows 401 C#/.NET course";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Contact Me";
 
             return View();
         }
