@@ -19,5 +19,6 @@ namespace Lab12_MVC_Part_2.Models
 
         [Column(TypeName = "decimal(18, 2)")]
         public decimal Price { get; set; }
+        public string Rating { get; set; }
     }
 }

@@ -12,9 +12,10 @@ using Microsoft.EntityFrameworkCore.Storage.Internal;
 namespace Lab12_MVC_Part_2.Migrations
 {
     [DbContext(typeof(Lab12_MVC_Part_2Context))]
-    partial class Lab12_MVC_Part_2ContextModelSnapshot : ModelSnapshot
+    [Migration("20180620194405_Rating")]
+    partial class Rating
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
