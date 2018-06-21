@@ -15,9 +15,7 @@ The following is required to run the program.
 3. ASP.NET web API packages
 
 ## Example
-![Lab 12 Screenshot 1](Lab12-SS1.jpg) <br />
-![Lab 12 Screenshot 2](Lab12-SS2.jpg) <br />
-![Lab 12 Screenshot 3](Lab12-SS3.jpg)
+![Lab 12 Screenshot 1](Lab12-SS1.jpg)
 
 ## Happy path
 - open home page
@@ -38,7 +36,7 @@ This application is created using ASP.NET Core 2.1 Web Application <br />
 06-20-2018 1:00 PM - CRUD functionality added to website <br />
 06-20-2018 5:00 PM - HTML and CSS styling done to about and contact pages <br />
 06-20-2018 6:30 PM - HTML and CSS styling done to home page <br />
-06-20-2018 7:00 PM - finished README<br />
+06-20-2018 7:00 PM - HTML and CSS styling done to home page <br />
 
 
 
