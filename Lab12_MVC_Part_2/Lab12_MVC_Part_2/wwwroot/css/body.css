@@ -21,3 +21,14 @@
     border: 3px solid #004d00;
     background-color: #ccffcc;
 }
+
+.movie {
+    margin: auto;
+    max-height:450px;
+    padding: 1em 0;
+}
+
+.carousel-caption {
+    background: rgba(25, 25, 25, .5);
+}
+
